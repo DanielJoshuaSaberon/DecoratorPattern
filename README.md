@@ -13,6 +13,8 @@ Benefits include the "Standard Savings Account" plus "with Insurance".
 
 
 Develop a decorator pattern approach that will implement the given UML diagram:
+![image](https://github.com/user-attachments/assets/9f5605cd-64f7-4942-b807-3ae50bde84b5)
+
 
 
 
@@ -66,6 +68,8 @@ public class Cimb {
 
 
 You should display the following output:
+![image](https://github.com/user-attachments/assets/b53086ec-fc09-4e96-a280-f9d5af44a7ce)
+
 
 
 
@@ -83,13 +87,6 @@ showInfo() - Returns details of account number, account name, and balance.
 BankAcountDecorator must be an interface.
 
 Follow instructions.  You are not allowed to insert other methods except what is stated in the diagram (setters and getters are allowed).
-
-
-In your solution you must provide the following in your Github link account:
-  Problem statement (description of the problem. Just copy what is stated here).
-  UML Class Diagram
-  Uploaded java codes for the solution.
-Upload your GitHub repository to the designated NEUVLE assignment link.
 
 
 
