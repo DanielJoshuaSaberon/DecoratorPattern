@@ -22,7 +22,7 @@ The content of your Cimb.java should ONLY contain the following codes with the e
 
 
 
-
+{
 public class Cimb {
 
 	public static void main(String[] args) {
@@ -57,6 +57,8 @@ public class Cimb {
 		System.out.println("New balance: " + upSave.computeBalanceWithInterest());
 		System.out.println("Benefits: " + upSave.showBenefits());
 	}
+ }
+
 }
 
 
@@ -66,8 +68,9 @@ public class Cimb {
 
 
 
-
 You should display the following output:
+
+
 ![image](https://github.com/user-attachments/assets/b53086ec-fc09-4e96-a280-f9d5af44a7ce)
 
 
